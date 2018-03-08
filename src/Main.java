@@ -15,7 +15,7 @@ public class Main {
         //click derecho irte a la parte de de refactor , extract method, le pones un nombre y 
         //te genera el metodo
     }
-//cambip necesatop para subir al repositorio 
+//cambip necesatop para subir al  repositorio 
 	private static void operativaCuenta() {
 		CCuenta cuenta1;
 		double saldoActual;
